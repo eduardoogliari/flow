@@ -1,0 +1,14 @@
+Trabalho Algoritmos Genéticos Turma A (6 pontos)
+
+Trabalho de projeto e implementação de um algoritmo genético para resolver o problema Flow Shop sequencing.
+
+Detalhamento do problema (assim como suas instâncias) e requisitos do trabalho (arquivo do Jupyter Lab) na pasta abaixo.
+O que você deve entregar:
+
+    Um arquivo (pode ser o arquivo do Jupyter Lab) ou pasta compactada contendo o código em Python
+    Um arquivo com a tabela sumarizando os resultados do algoritmo
+    Nomes dos elementos do grupo (máx. 3)
+
+OBS: Embora o trabalho possa ser realizado em grupo, a entrega deve ser individual.
+
+Este trabalho deverá ser entregue no Moodle até 06/04 e apresentado para a turma A no dia 06/04.
